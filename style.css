@@ -1,7 +1,13 @@
-p{
-    font-size: large;
+* {
+  text-align: center;
 }
-.kaka{
-    background-color: black;
-    color: green;
+p {
+  font-size: large;
+}
+.kaka {
+  background-color: black;
+  color: green;
+}
+#lies {
+  display: none;
 }
