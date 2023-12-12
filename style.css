@@ -1,5 +1,15 @@
-p{
-    font-size: large;
+* {
+  text-align: center;
+}
+p {
+  font-size: large;
+}
+.kaka {
+  background-color: black;
+  color: green;
+}
+#lies {
+  display: none;
 }
 .kaka{
     background-color: black;
@@ -184,3 +194,9 @@ p{
     }
  }
  
+}p{
+    font-size: large;
+}
+.text{
+    color: aqua;
+}
